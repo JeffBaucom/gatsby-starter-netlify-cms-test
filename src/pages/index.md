@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Beat Maker and Producer
-image: /img/dsc00302-2.jpg
+image: /img/websitecover.png
 heading: Great coffee with a conscience
 subheading: Creating music with a purpose
 mainpitch:
